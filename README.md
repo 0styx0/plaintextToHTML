@@ -5,4 +5,4 @@ There's probably a lot of these, didn't bother to check. Made specifically to co
 
 Setup: Download vimToGoogleDocs.js, then run
     
-    $node vimToGoogleDocs <input> <output>
+    $node vimToGoogleDocs.js <input> <output>
